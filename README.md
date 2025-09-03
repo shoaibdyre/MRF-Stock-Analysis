@@ -13,3 +13,13 @@ The interactive dashboard provides:
 -Price Movement Tracking: Visualizations for Open, High, Low, and Close (OHLC) prices over time.
 
 -Volume Analysis: Charts correlating trading volume with price changes to identify significant market activity.
+
+## 🌟 About Me
+
+Hi there! I'm **Shoaib Dyre**, an aspiring Data Analyst passionate about transforming raw data into meaningful insights. This GitHub repository showcases my journey in learning data analysis, including projects, SQL queries and analytic reposts.
+
+  🔍 Curious about data – I love exploring datasets, finding patterns, and telling stories through numbers.
+
+  📊 Skills in development: SQL, Python (Pandas, NumPy), Excel, Power BI and data cleaning.
+
+  🎯 Goal: Land my first Data Analyst role and contribute to data-driven decision-making.
