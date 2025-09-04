@@ -3,8 +3,7 @@
 ## Project Overview
 This project involves the development of an end-to-end Business Intelligence solution to analyze the daily stock performance of MRF Ltd. over a one-year period (September 2024 - September 2025). The goal was to clean, model, and visualize key financial metrics to uncover trends, volatility patterns, and trading insights, showcasing the power of data storytelling in finance.
 
-<img width="1317" height="740" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/d03725c6-cd6c-40e4-85b7-edd12b536929" />
-
+<img width="1315" height="736" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/ed345815-fc93-424c-af58-9ea7b6654901" />
 
 ## Key Features & Insights
 The interactive dashboard provides:
